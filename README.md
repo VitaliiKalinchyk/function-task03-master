@@ -12,8 +12,8 @@ and implement its static methods:
 
 * `int multiArithmeticElements(int a1, int t, int n)`\
 Task 3.
-Create function MultiArithmeticElements, which determines the multiplication of the first n elements
-of arithmetic progression of real numbers with a given initial element of progression a1 and progression
+Create function `multiArithmeticElements`, which determines the multiplication of the first n elements
+of arithmetic progression of int numbers with a given initial element of progression a1 and progression
 step t. an is calculated by the formula (an+1 = an + t).
 
 ###  Example:
