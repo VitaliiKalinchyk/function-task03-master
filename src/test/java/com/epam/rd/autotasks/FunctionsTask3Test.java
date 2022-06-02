@@ -19,7 +19,6 @@ class FunctionsTask3Test {
 
     }
 
-    // The entered number of elements in the array is less than zero n < 0!
     @Test
     public void multiplicationOfTheArithmeticProgressionNumbersWithIllegalArgumentException() {
         assertThrows(IllegalArgumentException.class, () -> {
